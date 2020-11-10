@@ -1,16 +1,21 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: gm.me.uk
+tagline: Playing with the sand at the side of the road
+url: http://gm.me.uk
 paginate: 1
+paginate_path: /blog/page:num
+archive_path: /blog/archive
 baseurl: ""
-permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
+timezone: Europe/London
 
 # Gems
 plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Optimize Jekyll
 exclude:
@@ -33,9 +38,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
-
-# Custom vars
-version: 3.0.0
+  name: Gerard Martin
+  github: gerjomarty
+  twitter: gerjomarty

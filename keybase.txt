@@ -1,0 +1,78 @@
+---
+layout: null
+---
+
+==================================================================
+https://keybase.io/gerjomarty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gm.me.uk
+  * I am gerjomarty (https://keybase.io/gerjomarty) on keybase.
+  * I have a public key with fingerprint 3F21 6AE5 DE16 DCE6 091A  C409 170F F311 4BCF 0785
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3f216ae5de16dce6091ac409170ff3114bcf0785",
+            "host": "keybase.io",
+            "key_id": "170ff3114bcf0785",
+            "kid": "01012e118e3da8ca889bc3e34d6f2a30f82b78aa0b462efa13ba71af324e821790140a",
+            "uid": "a62621b23b20425daf8cd935f92bd900",
+            "username": "gerjomarty"
+        },
+        "revoke": {
+            "sig_ids": [
+                "b8703fec28c013032850680bd882251238b2a046deb06e47367caf72dda7d6580f"
+            ]
+        },
+        "service": {
+            "hostname": "gm.me.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1439749589,
+    "expire_in": 157680000,
+    "prev": "fa4b3e1c84ac5765f58367f4c786b39bc624624ae84d85f6896516b3ff12a167",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.41
+Comment: https://keybase.io/crypto
+
+yMJlAnicbZJdaFRHFMd3/YgYTAlqxUSi9qqgNVnn687M3WiL6JOiqChWGrOduXcm
+uV2zd717d82yxgcr0eJHqSI+BIOftApB0RC0CLVpqIgPhlKRUoOIUbAPfiBYRFo7
+N+ib83CHe87//M5/zsxQzfhEdbL/3v1COOvyUPLWLz3FxKbhO3cqlgy8spWuWFk1
+tmk/16bCfOjnIittYY0gFcr2FKSeqyhwoHCJ+TKgNYaQSFcDxm2r0WoPCnGFwUhR
+UCk/MDHzk/E9E/2APjuWABBApCDkCnuCu4JzR7pYYeJRjQQGmiPJuBBAEoqUFhBL
+waDQGBHFEWQOgAQIgyuO4QRFFEGJsESAINsTmrueg23tIOk5AMTCggpzokMZtTno
+10GHCKOy1dVohaoUZFU8g4LfZmwXrPSXluQMYK1cxF0AMcCI24ByID3OEbIhwlwi
+AQj1lARUEYYpc4VmyPME86jNgba2GrbpWfLdMXg8p/f9O1IdKlXMGlf5MIgCN9hm
+ou1RlE/HhqJyPlbtUDLzrj4j/ZxnLsgUlFRY8IOclYZG6UZ+DIQEO4w4NncaLdWZ
+90OV8WOFzYxls+I2qmSQWhCJFXQ5Ea5J2trmxrgmLuNUYnMDFJlxE6E48bitKXeo
+DU1Ga4gEpMyKT7Q9Fxg2Mj5Fm2GaoeVEVAyV1TV4vWVCIlmdqJo4Ln5jierJte9f
+3q9TJ70tnrjH7In9xYZdR/s/b9g+On1Z1crMyFDf0TdVB8qVkbq+gdrs5kfNnS+u
+rpuZ2n9k16tjz19GnbfU45qLLFnKFX/uXtP0XeVP/4vE8bX2nvqfWi/s+GvnldqF
+354bPfzw1bJ/719v/Sp7Yf6x//Z+2sw2nJk2+8fe03XJ3xbsu7J6NEptHJw38FnT
+bfL67+Hl/OzrP6adXvQ2/WzgxqHBu4vRxWBD05SDTau6e5Y2/H5qjV+/PHP2fM3N
+pzNGtzbPnfrg45qukbqnD3r3VVa1Ndc+WXBKtPR/MkyvPS73dF+6/cM3ldVzVuw/
+OWlpfbDn5JJnvVG25dDe9r6+7/+Ze/4j3Lpl3u4DN4bXb/kfLgtBOA==
+=LDEQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gerjomarty
+
+==================================================================
+

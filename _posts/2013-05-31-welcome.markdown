@@ -1,0 +1,20 @@
+---
+layout: post
+title: Welcome
+categories: meta
+---
+
+Hello world!
+
+This is the first of hopefully many more wonderous blog posts that’ll have you
+simultaneously awestruck and in fits of boundless laughter. Or more likely
+you’ll stumble across it one day Googling for a fix to a stupid problem. I
+hope it’ll be good enough for the latter, at least.
+
+My name is Gerard. I write Ruby on Rails and iOS apps for the day job, and
+mostly mess around with those and other myriad technologies when the sun goes
+down too.
+
+I tweet as [@gerjomarty](http://twitter.com/gerjomarty), though it’s mostly
+about anime with a light spattering of everything else. I also have a (now
+mostly disused) anime blog called [Anientity](http://www.anientity.co.uk).

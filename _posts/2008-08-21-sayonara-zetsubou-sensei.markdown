@@ -1,0 +1,31 @@
+---
+layout: post
+title: Sayonara Zetsubou Sensei
+categories: anime
+tags:
+  - so long, mr. despair
+  - anime
+  - anime review
+redirect_from: /anime/2008/08/21/sayonara-zetsubou-sensei/
+---
+I started (and finished) the first series of this anime quite a while ago. Last year, in fact. It was one of the shows that my university anime club introduced me to, and I am so thankful to them for that. I recently marathoned the whole first series again, and I'm so glad I did.
+
+*Sayonara Zetsubou Sensei*, also known as *So Long, Mr. Despair* to those who followed a.f.k.'s fansubs, is adapted from the manga with the same name, as it happens. The story was created by Koji Kumeta, who we get to see a lot of throughout the series, given that his head appears a smattering of times throughout each episode. It's this kind of behaviour that makes *SZS* stand out for me as a great example of anime.
+
+The precedent is set right from the bat, as we get to see Kumeta-san's original (in both senses of the word) animation. You could imagine what I was thinking when I seen that with no prior knowledge of the manga or anime before. A show that starts like this is going to be good.
+
+The story, or lack thereof, goes like this: Super negative teacher Nozomu Itoshiki, teaches a class full of one-dimensional grotesques about the despairs of Japan and occasionly tries to commit suicide. It doesn't sound like it'll stack up to much on the surface, but thanks to some superb writing and some of the most interesting characters you'll ever see in an anime, this becomes a winning formula.
+
+The cast of the show, compared to other anime, is actually quite large. It's surprising that despite the large number of characters that need to be introduced, developed and connected, each one still stands out as an individual. This is, of course, helped by the fact that each class member possesses a strange and defining characteristic by which they are judged entirely. It's possible that other facets of their characters exist; we simply don't get to see them. We can imagine, though, and I think that filling in one side of everyone's personality and leaving the others for the viewers to fill in themselves is a very big plus point. We're given glimpses of how everyone gets along despite their huge differences, but in essence each person is a living stereotype, which I suppose is appropriate for the black comedy aspect of the show.
+
+From a western point of view, it's very hard for anime to get humour right. After all, the producers are catering for the tastes of Japan, and in the vast majority of cases the gauged reaction from Europe and America doesn't affect the show at all. This is also the case for *SZS*, but the black humour of the show translates very well to western people who "get" it. Some examples used, like the bald football coach wearing hair on his hat, obviously can't translate well, but the sentiment gets across.
+
+There has been some discussion about whether the anime is "untranslatable" because of the number of written gags, and the nature of the spoken ones. Personally, I think if companies were able to subtitle the way fansubbers can because of the better typesetting available in hardsubs than in DVD subtitling, there wouldn't be a problem at all. Of course, this is all regarding a subbed version. Whether *SZS* should be dubbed or not is a completely different matter. I believe that it would be possible, and even beneficial, to have a dub, as long as it was a completely direct translation, and that it wasn't written as if everyone had always been speaking English, which is always intensely annoying. The recent dub of *Pani Poni Dash!* by ADV Films shows that a similar kind of show can be dubbed while still retaining the meaning of everything.
+
+I've also got to make a point about the music. It's very well produced, but more than that, it provides a great counterpoint to the despair of the show. Some of the more positive sounding background tracks clash with the often dark and strange scenarios of the show. My personal favourite from the OST is called *Stalker Juzu Tsunagi*, and I liked it because it reminds me of the sneaky and catchy music from some sort of spy film. It works well with one of Nozomu Itoshiki's diatribes about modern Japan. OP and ED music is brilliant, and as catchy as J-rock / J-pop anime openings and endings usually are.
+
+I'm trying really hard to find something I don't like about SZS, and it's difficult to come up with anything. The randomness of the events in the episodes could be labelled as a fault of the show, but it's the disjointedness of everything that makes it so good, and the precedent of this is set very early on. Some (in fact, the majority) of the pop culture references, e.g. on the blackboards, are far too hardcore to even begin to research, but it's not like these have a huge bearing on the \*ahem\* storyline anyway. I've always seen it as a bonus to catch these small pop culture references. It's a similar situation to the referencing in *Pani Poni Dash!*, and it's also better than *Lucky☆Star*, which builds a huge majority of the show around references that may not be apparent to western audiences immediately, which disconnects them from the joke entirely.
+
+Another aspect of the show that people might find is repeated too often is it's tendency to break the fourth wall with Kumeta-san's face appearing everywhere, the self-congratulations of awards, the viewers question and answer panel, and the multitude of written messages flashed multiple times an episode. In my opinion, this is one of the best facets of the show. These small references never wreck the momentum of the show (because they're never usually on-screen for more than a few seconds) and they serve the purpose of keeping the viewer rooted in reality, as the despairs of Itoshiki-sensei are all about real life. Of course, this could all be futile speculation, and the real reason is because the director thought it would be pretty funny to include.
+
+Unfortunately, I haven't had the chance to see *Zoku Sayonara Zetsubou Sensei* yet, but I will be later this year. I have every hope that it'll be as good as the first season. Everyone needs to see this anime.

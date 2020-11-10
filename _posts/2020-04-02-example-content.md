@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+published: false
+hidden: true
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
