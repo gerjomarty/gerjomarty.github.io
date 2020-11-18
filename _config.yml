@@ -3,7 +3,7 @@ title: gm.me.uk
 tagline: Playing with the sand at the side of the road
 url: https://gm.me.uk
 paginate: 1
-paginate_path: /blog/page:num
+paginate_path: /blog/page/:num
 archive_path: /blog/archive
 baseurl: ""
 permalink: /blog/:year/:month/:day/:title/
