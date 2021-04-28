@@ -8,6 +8,7 @@ archive_path: /blog/archive
 baseurl: ""
 permalink: /blog/:year/:month/:day/:title/
 timezone: Europe/London
+locale: en_GB
 
 # Gems
 plugins:
@@ -41,3 +42,7 @@ author:
   name: Gerard Martin
   github: gerjomarty
   twitter: gerjomarty
+
+twitter:
+  username: gerjomarty
+  card: summary
